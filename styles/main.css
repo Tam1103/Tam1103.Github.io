@@ -7273,6 +7273,13 @@ Created using IcoMoon - icomoon.io
   .section {
     padding-bottom: 0;
   }
+nav.navbar.navbar-expand-lg.fixed-top.bg-primary.navbar-transparent {
+    font-weight: bold;
+}
+nav.navbar.navbar-expand-lg.fixed-top.bg-primary {
+    font-weight: bold;
+}
+
 
   /*div#my-div {
     float: right;
