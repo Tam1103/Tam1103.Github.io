@@ -7090,7 +7090,7 @@ Created using IcoMoon - icomoon.io
     }
   }
 
-  .cc-profile-image a {
+  /* .cc-profile-image a {
     position: relative;
   }
 
@@ -7121,6 +7121,11 @@ Created using IcoMoon - icomoon.io
     z-index: 9999;
     -webkit-transition: all .3s ease-out;
     transition: all .3s ease-out;
+  } */
+
+  .cc-profile-image img {
+    height: 380px;
+    width: 180px;
   }
 
   .cc-profile-image a:hover img {
